@@ -1,0 +1,15 @@
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\bin\Debug\net7.0\Task_58.exe
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\bin\Debug\net7.0\Task_58.deps.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\bin\Debug\net7.0\Task_58.runtimeconfig.json
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\bin\Debug\net7.0\Task_58.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\bin\Debug\net7.0\Task_58.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\refint\Task_58.dll
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.pdb
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\Task_58.genruntimeconfig.cache
+C:\Users\yasha\OneDrive\Рабочий стол\GB\Дз Geek Brains\Знакомство с базами данных\ДЗ_Семинар_3\Task_58\obj\Debug\net7.0\ref\Task_58.dll
